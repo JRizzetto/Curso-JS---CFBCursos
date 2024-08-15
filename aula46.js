@@ -58,6 +58,7 @@ btnCursoSelecionado.addEventListener("click", (evt)=>{
         }
     });
     
+    
     btnAdicionarNovoCursoAntes.addEventListener("click", (evt)=>{
         try{
             if(nomeCurso.value!=""){
